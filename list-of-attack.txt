@@ -1,0 +1,71 @@
+List of Attacks
+
+Binary Planting
+Blind SQL Injection
+Blind XPath Injection
+Brute Force Attack
+Buffer Overflow via Environment Variables
+Buffer Overflow Attack
+CORS OriginHeaderScrutiny
+CORS RequestPreflighScrutiny
+CSV Injection
+Cache Poisoning
+Cash Overflow
+Clickjacking
+Code Injection
+Command Injection
+Comment Injection Attack
+Content Security Policy
+Content Spoofing by Andrew Smith
+Cornucopia - Ecommerce Website Edition - Wiki Deck by Darío De Filippis
+Credential stuffing
+Cross-User Defacement
+Cross Site Scripting (XSS) by KirstenS
+Cross Frame Scripting
+Cross Site History Manipulation (XSHM)
+Cross Site Tracing
+Cryptanalysiss
+Custom Special Character Injection
+Denial of Service
+Direct Dynamic Code Evaluation - Eval Injection
+Embedding Null Code by Nsrav
+Execution After Redirect (EAR) by Robert Gilbert (amroot)
+Forced browsing
+Form action hijacking by Robert Gilbert (amroot)
+Format string attack
+Full Path Disclosure
+Function Injection
+HTTP Response Splitting
+LDAP Injection
+Log Injection
+Man-in-the-browser attack
+Man-in-the-middle attack
+Mobile code invoking untrusted mobile code
+Mobile code non-final public field
+Mobile code object hijack
+Parameter Delimiter
+Path Traversal
+Qrljacking
+Reflected DOM Injection
+Regular expression Denial of Service - ReDoS by Adar Weidman
+Repudiation Attack
+Resource Injection
+Reverse Tabnabbing
+SQL Injection
+Server-Side Includes (SSI) Injection by Weilin Zhong, Nsrav
+Server Side Request Forgery
+Session Prediction
+Session fixation
+Session hijacking attack
+Setting Manipulation
+Special Element Injection
+Spyware
+Traffic flood
+Trojan Horse
+Unicode Encoding
+Web Parameter Tampering
+Windows ::DATA Alternate Data Stream
+XPATH Injection
+XSRF
+XSS in subtitle by Mohammad MortazaviZade
+Cross Site Request Forgery (CSRF) by KirstenS
