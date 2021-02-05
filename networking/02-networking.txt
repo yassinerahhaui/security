@@ -1,0 +1,15 @@
+###-7-layers-###
+1-physical >> bit
+2-data_link >> MAC address
+3-network >> packets >> IP 
+4-transport >> sigment
+5-session
+6-presentation >> format >> pdf jpg doc ...
+7-application >> firefox chrome ...
+
+
+###-TCP-IP-###
+1-access network
+2-internet
+3-transport
+4-application

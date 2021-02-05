@@ -1,0 +1,12 @@
+L2-Switch
+Router
+M.L.Switch
+Firewall
+I.P.S
+N.G.F.W
+A.P
+Controllers-W.L.C
+CISCO-DNA-Center
+Server
+Client
+Virtual Machines
